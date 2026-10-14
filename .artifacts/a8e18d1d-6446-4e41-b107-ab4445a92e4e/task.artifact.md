@@ -1,0 +1,5 @@
+- [/] Upgrade root `build.gradle` (AGP version)
+- [ ] Upgrade app `build.gradle` (Dependencies & -android suffix)
+- [ ] Gradle Sync
+- [ ] Fix `AuthActivity.java` (Convert field to local variable)
+- [ ] Final Verification (analyze_file & build)

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Backgrounds -->
+    <color name="bg_primary">#F4F7F4</color>
+    <color name="bg_surface">#FFFFFF</color>
+    <color name="bg_surface_variant">#E8F5E9</color>
+
+    <!-- Primary Brand -->
+    <color name="accent_green">#2FC97A</color>
+    <color name="accent_green_light">#86E3B1</color>
+    <color name="accent_green_dark">#1E8E55</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#0A0A0A</color>
+    <color name="text_secondary">#6B6B6B</color>
+    <color name="text_muted">#9A9A9A</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Macro Colors -->
+    <color name="color_protein">#2FC97A</color>
+    <color name="color_carb">#2F80ED</color>
+    <color name="color_fat">#F2994A</color>
+
+    <!-- Meal Badges -->
+    <color name="meal_morning">#FFB74D</color>
+    <color name="meal_lunch">#2FC97A</color>
+    <color name="meal_dinner">#9575CD</color>
+    <color name="meal_snack">#EF5350</color>
+
+    <!-- Others -->
+    <color name="divider">#EEEEEE</color>
+    <color name="accent_red">#EF5350</color>
+    <color name="accent_cyan">#2F80ED</color>
+    <color name="accent_orange">#F2994A</color>
+
+    <!-- Compatibility Aliases -->
+    <color name="accent_gradient_start">@color/accent_green</color>
+    <color name="accent_gradient_end">@color/accent_green_light</color>
+    <color name="bg_surface_light">@color/bg_surface_variant</color>
+</resources>

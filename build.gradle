@@ -1,0 +1,15 @@
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:9.3.2'
+        // Firebase Plugin - used to read the google-services.json file
+        classpath "com.google.gms:google-services:4.4.1"
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

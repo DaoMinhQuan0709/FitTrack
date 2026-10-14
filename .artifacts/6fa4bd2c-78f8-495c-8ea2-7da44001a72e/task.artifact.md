@@ -1,0 +1,2 @@
+- [x] Tạo tệp `google-services.json` placeholder trong thư mục `app/`
+- [x] Kiểm tra build dự án
