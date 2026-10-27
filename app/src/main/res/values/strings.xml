@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">FitTrack</string>
+    <string name="app_name">HealthChecker</string>
     <string name="avatar_content_description">Profile Avatar</string>
 
     <!-- Auth -->

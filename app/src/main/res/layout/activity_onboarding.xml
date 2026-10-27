@@ -47,7 +47,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Next"
-            app:backgroundTint="@color/accent_green"
+            app:backgroundTint="@color/accent_pink"
             android:textColor="@color/white"
             app:cornerRadius="12dp" />
 

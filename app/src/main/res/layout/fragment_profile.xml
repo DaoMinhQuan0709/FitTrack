@@ -169,7 +169,7 @@
                         <TextView android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1"
                             android:text="TDEE" android:textColor="@color/text_secondary" android:textSize="14sp" />
                         <TextView android:id="@+id/tvTdeeValue" android:layout_width="wrap_content" android:layout_height="wrap_content"
-                            android:text="0 kcal" android:textColor="@color/accent_green" android:textStyle="bold" android:textSize="14sp" />
+                            android:text="0 kcal" android:textColor="@color/accent_pink" android:textStyle="bold" android:textSize="14sp" />
                     </LinearLayout>
                 </LinearLayout>
             </com.google.android.material.card.MaterialCardView>
@@ -181,8 +181,8 @@
                 android:layout_marginTop="24dp"
                 android:text="Edit Profile"
                 style="@style/Widget.MaterialComponents.Button.OutlinedButton"
-                app:strokeColor="@color/accent_green"
-                android:textColor="@color/accent_green"
+                app:strokeColor="@color/accent_pink"
+                android:textColor="@color/accent_pink"
                 app:cornerRadius="12dp" />
 
             <com.google.android.material.button.MaterialButton

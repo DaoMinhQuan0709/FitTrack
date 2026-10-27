@@ -33,7 +33,7 @@
                 android:layout_marginTop="8dp"
                 android:layout_marginBottom="16dp"
                 android:text="0 exercises today"
-                android:textColor="@color/accent_green"
+                android:textColor="@color/accent_pink"
                 android:textSize="15sp"
                 android:textStyle="bold" />
         </LinearLayout>
@@ -74,7 +74,7 @@
         android:layout_gravity="bottom|end"
         android:layout_margin="20dp"
         android:src="@drawable/ic_add"
-        app:backgroundTint="@color/accent_green"
+        app:backgroundTint="@color/accent_pink"
         app:tint="@color/white" />
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

@@ -28,7 +28,7 @@
         android:layout_marginTop="40dp"
         android:hint="@string/height_hint"
         app:boxBackgroundColor="@color/bg_surface"
-        app:boxStrokeColor="@color/accent_green">
+        app:boxStrokeColor="@color/accent_pink">
         <com.google.android.material.textfield.TextInputEditText
             android:id="@+id/etHeight"
             android:layout_width="match_parent"
@@ -43,7 +43,7 @@
         android:layout_marginTop="16dp"
         android:hint="@string/weight_hint"
         app:boxBackgroundColor="@color/bg_surface"
-        app:boxStrokeColor="@color/accent_green">
+        app:boxStrokeColor="@color/accent_pink">
         <com.google.android.material.textfield.TextInputEditText
             android:id="@+id/etWeight"
             android:layout_width="match_parent"

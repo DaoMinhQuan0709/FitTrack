@@ -6,7 +6,11 @@
     <color name="bg_surface_variant">#E8F5E9</color>
 
     <!-- Primary Brand -->
-    <color name="accent_green">#2FC97A</color>
+    <color name="accent_pink">#FF9B9B</color>
+    <color name="accent_pink_light">#FFD6D6</color>
+    <color name="accent_pink_dark">#E85D75</color>
+
+    <!--<color name="accent_green">#2FC97A</color>-->
     <color name="accent_green_light">#86E3B1</color>
     <color name="accent_green_dark">#1E8E55</color>
 
@@ -35,7 +39,7 @@
     <color name="accent_orange">#F2994A</color>
 
     <!-- Compatibility Aliases -->
-    <color name="accent_gradient_start">@color/accent_green</color>
-    <color name="accent_gradient_end">@color/accent_green_light</color>
+    <color name="accent_gradient_start">@color/accent_pink</color>
+    <color name="accent_gradient_end">@color/accent_pink_light</color>
     <color name="bg_surface_light">@color/bg_surface_variant</color>
 </resources>

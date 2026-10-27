@@ -76,7 +76,7 @@ public class CalendarAdapter extends RecyclerView.Adapter<CalendarAdapter.Calend
                 boolean isSelected = dateStr.equals(selectedDate);
                 
                 if (isSelected) {
-                    binding.cardDay.setCardBackgroundColor(ContextCompat.getColor(binding.getRoot().getContext(), R.color.accent_green));
+                    binding.cardDay.setCardBackgroundColor(ContextCompat.getColor(binding.getRoot().getContext(), R.color.accent_pink));
                     binding.cardDay.setStrokeWidth(0);
                     binding.tvDayOfWeek.setTextColor(ContextCompat.getColor(binding.getRoot().getContext(), R.color.white));
                     binding.tvDayOfMonth.setTextColor(ContextCompat.getColor(binding.getRoot().getContext(), R.color.white));

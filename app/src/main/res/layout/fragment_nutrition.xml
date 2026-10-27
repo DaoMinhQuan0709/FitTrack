@@ -77,7 +77,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="0 kcal"
-                            android:textColor="@color/accent_green"
+                            android:textColor="@color/accent_pink"
                             android:textStyle="bold"
                             android:textSize="14sp" />
                         <TextView
@@ -277,7 +277,7 @@
         android:layout_gravity="bottom|end"
         android:layout_margin="20dp"
         android:src="@drawable/ic_add"
-        app:backgroundTint="@color/accent_green"
+        app:backgroundTint="@color/accent_pink"
         app:tint="@color/white"
         android:contentDescription="@string/add_food" />
 

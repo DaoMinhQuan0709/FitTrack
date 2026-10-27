@@ -24,7 +24,7 @@
             android:layout_marginTop="20dp"
             android:hint="@string/food_name_hint"
             app:boxBackgroundColor="@color/bg_primary"
-            app:boxStrokeColor="@color/accent_green">
+            app:boxStrokeColor="@color/accent_pink">
             <com.google.android.material.textfield.TextInputEditText
                 android:id="@+id/etFoodName"
                 android:layout_width="match_parent"
@@ -38,7 +38,7 @@
             android:layout_marginTop="12dp"
             android:hint="@string/calories_hint"
             app:boxBackgroundColor="@color/bg_primary"
-            app:boxStrokeColor="@color/accent_green">
+            app:boxStrokeColor="@color/accent_pink">
             <com.google.android.material.textfield.TextInputEditText
                 android:id="@+id/etCalories"
                 android:layout_width="match_parent"
@@ -59,7 +59,7 @@
                 android:layout_marginEnd="4dp"
                 android:hint="@string/protein_hint"
                 app:boxBackgroundColor="@color/bg_primary"
-                app:boxStrokeColor="@color/accent_green">
+                app:boxStrokeColor="@color/accent_pink">
                 <com.google.android.material.textfield.TextInputEditText
                     android:id="@+id/etProtein"
                     android:layout_width="match_parent"
@@ -74,7 +74,7 @@
                 android:layout_marginHorizontal="4dp"
                 android:hint="@string/carbs_hint"
                 app:boxBackgroundColor="@color/bg_primary"
-                app:boxStrokeColor="@color/accent_green">
+                app:boxStrokeColor="@color/accent_pink">
                 <com.google.android.material.textfield.TextInputEditText
                     android:id="@+id/etCarb"
                     android:layout_width="match_parent"
@@ -89,7 +89,7 @@
                 android:layout_marginStart="4dp"
                 android:hint="@string/fat_hint"
                 app:boxBackgroundColor="@color/bg_primary"
-                app:boxStrokeColor="@color/accent_green">
+                app:boxStrokeColor="@color/accent_pink">
                 <com.google.android.material.textfield.TextInputEditText
                     android:id="@+id/etFat"
                     android:layout_width="match_parent"

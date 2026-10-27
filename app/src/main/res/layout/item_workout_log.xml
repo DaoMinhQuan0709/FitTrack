@@ -25,7 +25,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:background="@drawable/bg_badge_circle"
-                android:backgroundTint="@color/accent_green" />
+                android:backgroundTint="@color/accent_pink" />
 
             <ImageView
                 android:layout_width="22dp"

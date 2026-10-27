@@ -28,7 +28,7 @@
         android:layout_marginTop="40dp"
         android:hint="@string/name_hint"
         app:boxBackgroundColor="@color/bg_surface"
-        app:boxStrokeColor="@color/accent_green">
+        app:boxStrokeColor="@color/accent_pink">
         <com.google.android.material.textfield.TextInputEditText
             android:id="@+id/etName"
             android:layout_width="match_parent"
@@ -43,7 +43,7 @@
         android:layout_marginTop="16dp"
         android:hint="@string/age_hint"
         app:boxBackgroundColor="@color/bg_surface"
-        app:boxStrokeColor="@color/accent_green">
+        app:boxStrokeColor="@color/accent_pink">
         <com.google.android.material.textfield.TextInputEditText
             android:id="@+id/etAge"
             android:layout_width="match_parent"
@@ -76,7 +76,7 @@
             android:checked="true"
             android:text="@string/male"
             android:textColor="@color/text_primary"
-            android:buttonTint="@color/accent_green" />
+            android:buttonTint="@color/accent_pink" />
 
         <RadioButton
             android:id="@+id/rbFemale"
@@ -85,7 +85,7 @@
             android:layout_weight="1"
             android:text="@string/female"
             android:textColor="@color/text_primary"
-            android:buttonTint="@color/accent_green" />
+            android:buttonTint="@color/accent_pink" />
     </RadioGroup>
 
 </LinearLayout>

@@ -41,7 +41,7 @@
             android:layout_height="wrap_content"
             android:hint="Email Address"
             app:boxBackgroundColor="@color/bg_surface"
-            app:boxStrokeColor="@color/accent_green"
+            app:boxStrokeColor="@color/accent_pink"
             app:hintTextColor="@color/text_secondary">
 
             <com.google.android.material.textfield.TextInputEditText
@@ -58,7 +58,7 @@
             android:layout_marginTop="16dp"
             android:hint="Password"
             app:boxBackgroundColor="@color/bg_surface"
-            app:boxStrokeColor="@color/accent_green"
+            app:boxStrokeColor="@color/accent_pink"
             app:hintTextColor="@color/text_secondary"
             app:endIconMode="password_toggle">
 
@@ -76,7 +76,7 @@
             android:layout_marginTop="16dp"
             android:hint="Confirm Password"
             app:boxBackgroundColor="@color/bg_surface"
-            app:boxStrokeColor="@color/accent_green"
+            app:boxStrokeColor="@color/accent_pink"
             app:hintTextColor="@color/text_secondary"
             app:endIconMode="password_toggle">
 
@@ -94,7 +94,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="32dp"
             android:text="Sign Up"
-            app:backgroundTint="@color/accent_green"
+            app:backgroundTint="@color/accent_pink"
             android:textColor="@color/white" />
 
         <TextView
@@ -104,7 +104,7 @@
             android:layout_marginTop="24dp"
             android:padding="8dp"
             android:text="Already have an account? Login"
-            android:textColor="@color/accent_green"
+            android:textColor="@color/accent_pink"
             android:textSize="14sp"
             android:textStyle="bold" />
 

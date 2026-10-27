@@ -154,7 +154,7 @@ public class DashboardFragment extends Fragment {
         }
 
         BarDataSet dataSet = new BarDataSet(entries, "Burned");
-        dataSet.setColor(ContextCompat.getColor(requireContext(), R.color.accent_green));
+        dataSet.setColor(ContextCompat.getColor(requireContext(), R.color.accent_pink));
         dataSet.setDrawValues(true);
         dataSet.setValueTextColor(ContextCompat.getColor(requireContext(), R.color.text_primary));
         dataSet.setValueTextSize(11f);

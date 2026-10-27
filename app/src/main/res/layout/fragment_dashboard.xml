@@ -59,7 +59,7 @@
                     android:scaleType="centerCrop"
                     android:src="@drawable/ic_avatar_placeholder"
                     app:shapeAppearanceOverlay="@style/ShapeAppearance.FitTrack.Circle"
-                    app:strokeColor="@color/accent_green"
+                    app:strokeColor="@color/accent_pink"
                     app:strokeWidth="2dp"
                     android:contentDescription="@string/avatar_content_description" />
             </RelativeLayout>
@@ -90,7 +90,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
-                            app:indicatorColor="@color/accent_green"
+                            app:indicatorColor="@color/accent_pink"
                             app:indicatorSize="110dp"
                             app:trackColor="@color/bg_surface_variant"
                             app:trackCornerRadius="10dp"
@@ -402,7 +402,7 @@
                         android:padding="12dp"
                         android:src="@drawable/ic_workout"
                         app:shapeAppearanceOverlay="@style/ShapeAppearance.FitTrack.Circle"
-                        app:tint="@color/accent_green"
+                        app:tint="@color/accent_pink"
                         android:contentDescription="@null" />
 
                     <LinearLayout

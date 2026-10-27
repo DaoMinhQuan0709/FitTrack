@@ -79,8 +79,8 @@ public class ProgressFragment extends Fragment {
         }
 
         LineDataSet dataSet = new LineDataSet(entries, "Weight");
-        dataSet.setColor(ContextCompat.getColor(requireContext(), R.color.accent_green));
-        dataSet.setCircleColor(ContextCompat.getColor(requireContext(), R.color.accent_green));
+        dataSet.setColor(ContextCompat.getColor(requireContext(), R.color.accent_pink));
+        dataSet.setCircleColor(ContextCompat.getColor(requireContext(), R.color.accent_pink));
         dataSet.setLineWidth(3f);
         dataSet.setCircleRadius(5f);
         dataSet.setDrawValues(false);

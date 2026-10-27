@@ -20,7 +20,7 @@
         android:layout_marginTop="20dp"
         android:hint="@string/exercise_name_hint"
         app:boxBackgroundColor="@color/bg_primary"
-        app:boxStrokeColor="@color/accent_green">
+        app:boxStrokeColor="@color/accent_pink">
         <com.google.android.material.textfield.TextInputEditText
             android:id="@+id/etExerciseName"
             android:layout_width="match_parent"
@@ -41,7 +41,7 @@
             android:layout_marginEnd="6dp"
             android:hint="@string/sets_hint"
             app:boxBackgroundColor="@color/bg_primary"
-            app:boxStrokeColor="@color/accent_green">
+            app:boxStrokeColor="@color/accent_pink">
             <com.google.android.material.textfield.TextInputEditText
                 android:id="@+id/etSets"
                 android:layout_width="match_parent"
@@ -56,7 +56,7 @@
             android:layout_marginStart="6dp"
             android:hint="@string/reps_hint"
             app:boxBackgroundColor="@color/bg_primary"
-            app:boxStrokeColor="@color/accent_green">
+            app:boxStrokeColor="@color/accent_pink">
             <com.google.android.material.textfield.TextInputEditText
                 android:id="@+id/etReps"
                 android:layout_width="match_parent"
@@ -71,7 +71,7 @@
         android:layout_marginTop="12dp"
         android:hint="@string/weight_kg_hint"
         app:boxBackgroundColor="@color/bg_primary"
-        app:boxStrokeColor="@color/accent_green">
+        app:boxStrokeColor="@color/accent_pink">
         <com.google.android.material.textfield.TextInputEditText
             android:id="@+id/etWeight"
             android:layout_width="match_parent"
@@ -85,7 +85,7 @@
         android:layout_marginTop="12dp"
         android:hint="@string/calories_burned_hint"
         app:boxBackgroundColor="@color/bg_primary"
-        app:boxStrokeColor="@color/accent_green"
+        app:boxStrokeColor="@color/accent_pink"
         app:startIconDrawable="@drawable/ic_flame"
         app:startIconTint="@color/accent_orange">
         <com.google.android.material.textfield.TextInputEditText

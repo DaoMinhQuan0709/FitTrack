@@ -22,7 +22,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:background="@drawable/bg_badge_circle"
-                android:backgroundTint="@color/accent_green" />
+                android:backgroundTint="@color/accent_pink" />
 
             <ImageView
                 android:id="@+id/ivFlame"
@@ -39,7 +39,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="24dp"
-            android:text="FitTrack"
+            android:text="HealthChecker"
             android:textColor="@color/text_primary"
             android:textSize="32sp"
             android:textStyle="bold"
